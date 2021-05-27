@@ -1,0 +1,3 @@
+test.labs.organization.com#organization##client
+testserver.labs.organization.com#password#DNS:test01.labs.organization.com,DNS:test02.labs.organization.com#server
+testcert.labs.organization.com#password#DNS:testorganization.labs.organization.com#both
